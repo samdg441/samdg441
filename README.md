@@ -1,86 +1,58 @@
-<h1 align="left">👋 Hi, I'm Samuel</h1>
+<h1 align="center">👋 Hi, I'm Samuel</h1>
 
 <p align="center">
-I am a <strong>Systems Engineering</strong> student in Colombia 🇨🇴<br>
-Passionate about <strong>frontend development</strong>, <strong>software architecture</strong>, and <strong>technology project leadership</strong>.
+  <strong>Systems Engineering Student</strong> | <strong>Software Developer</strong> | <strong>Architecture & Systems Design Enthusiast</strong>
 </p>
 
----
-
-<h2 align="left">🚀 About me</h2>
-
-<ul>
-  <li>🎓 Systems Engineering student</li>
-  <li>💻 Interested in Frontend Development and Software Architecture</li>
-  <li>🧠 Drawn to planning, system design, and technical decision-making</li>
-  <li>🤝 I enjoy leading, organizing ideas, and turning them into real solutions</li>
-</ul>
 
 ---
 
-<h2 align="left">🛠️ Technologies and tools</h2>
+## 🚀 About Me
 
-<h3 align="left">💻 Frontend</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-</div>
+- 🎓 **Education:** Systems Engineering Student in Colombia 🇨🇴
+- 💻 **Core Focus:** Full Stack Web Development (React/Angular + Node/Python) & Software Architecture.
+- 🏗️ **Architecture & Leadership:** Passionate about system design, clean code (SOLID principles), scalability, and leading tech initiatives.
+- 💬 **Languages:** Spanish (Native) | English (Intermediate / Advanced — Professional Working Proficiency).
 
 ---
 
-<h3 align="left">⚙️ Backend</h3>
+## 🛠️ Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-</div>
+### 💻 Frontend Development
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samdg441&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samdg441&layout=compact&langs_count=5&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samdg441&show_icons=true&theme=dracula&hide_border=true" alt="Samuel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdg441&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/samdg441/samdg441/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%" />
 </div>
 
----
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samdg441/samdg441/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samdg441/samdg441/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samdg441/samdg441/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
-
-<h2 align="left">🌍 Languages</h2>
-
-<ul>
-  <li>🇪🇸 Spanish — Native</li>
-  <li>🇺🇸 English — Intermediate / Advanced</li>
-</ul>
-
----
-
-<h2 align="left">🔗 Connect with me</h2>
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn (coming soon)" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram (coming soon)" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord (coming soon)" />
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tuemail@dominio.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
