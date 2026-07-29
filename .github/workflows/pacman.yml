@@ -1,0 +1,19 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta cada medianoche
+  workflow_dispatch: # Permite ejecutarlo manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: marrone-dev/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
