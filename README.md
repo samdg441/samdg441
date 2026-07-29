@@ -39,13 +39,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samdg441&show_icons=true&theme=dracula&hide_border=true" alt="Samuel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdg441&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+  
+  <!-- Gráfico de actividad semanal -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samdg441&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 </div>
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/samdg441/samdg441/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samdg441/samdg441/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samdg441/samdg441/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake / Pacman Animation" src="https://raw.githubusercontent.com/samdg441/samdg441/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <p align="center">
