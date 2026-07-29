@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Samuel</h1>
 
 <p align="center">
-  <strong>Systems Engineering Student</strong> | <strong>Software Developer</strong> | <strong>Architecture & Systems Design Enthusiast</strong>
+  <strong>Systems Engineer Student</strong> | <strong>Software Developer</strong> | <strong>Architecture & Systems Design Enthusiast</strong>
 </p>
 
 
